@@ -1,0 +1,2 @@
+Most people,particularly those unfamiliar with Linux,believe that it is an operating system.However,it is a kernel,not an OS.
+A kernel is a key part of an OS.The operating system's name is GNU Linux OS,and it has several variations such as Kali Linux,Ubuntu,Fedora,Debian,etc.
